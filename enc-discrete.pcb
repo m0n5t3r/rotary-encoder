@@ -788,6 +788,7 @@ Symbol['~' 12.00mil]
 Attribute("PCB::grid::unit" "mil")
 Attribute("PCB::grid::size" "1.00mil")
 Via[590.00mil 15.0005mm 3.0000mm 20.00mil 26.00mil 3.0000mm "" "hole"]
+Via[688.00mil 25.0589mm 3.0000mm 20.00mil 26.00mil 3.0000mm "" "hole"]
 
 Element["" "SOT23" "Q4" "unknown" 619.00mil 18.8359mm -59.00mil 126.00mil 0 100 ""]
 (
