@@ -1,4 +1,0 @@
-(component-library "./lib")
-(source-library ".")
-
-; vim: set ft=scheme :
