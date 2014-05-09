@@ -15,6 +15,7 @@ How?
 
 You'll need:
 
+* gEDA
 * electronics stuff (PCB making, soldering, etc.)
 * lathe, probably mill too (haven't gotten to the mechanical part yet)
 * printer, transparency film (for encoder discs)
